@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Programação orientada a obj 2/1.0.0": {
+        "runtime": {
+          "Programação orientada a obj 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programação orientada a obj 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

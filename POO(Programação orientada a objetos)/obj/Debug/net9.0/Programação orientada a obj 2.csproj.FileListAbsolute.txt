@@ -1,0 +1,14 @@
+E:\Programação orientada a obj 2\obj\Debug\net9.0\Programação orientada a obj 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação orientada a obj 2\obj\Debug\net9.0\Programação orientada a obj 2.AssemblyInfoInputs.cache
+E:\Programação orientada a obj 2\obj\Debug\net9.0\Programação orientada a obj 2.AssemblyInfo.cs
+E:\Programação orientada a obj 2\obj\Debug\net9.0\Programação orientada a obj 2.csproj.CoreCompileInputs.cache
+E:\Programação orientada a obj 2\bin\Debug\net9.0\Programação orientada a obj 2.exe
+E:\Programação orientada a obj 2\bin\Debug\net9.0\Programação orientada a obj 2.deps.json
+E:\Programação orientada a obj 2\bin\Debug\net9.0\Programação orientada a obj 2.runtimeconfig.json
+E:\Programação orientada a obj 2\bin\Debug\net9.0\Programação orientada a obj 2.dll
+E:\Programação orientada a obj 2\bin\Debug\net9.0\Programação orientada a obj 2.pdb
+E:\Programação orientada a obj 2\obj\Debug\net9.0\Programação orientada a obj 2.dll
+E:\Programação orientada a obj 2\obj\Debug\net9.0\refint\Programação orientada a obj 2.dll
+E:\Programação orientada a obj 2\obj\Debug\net9.0\Programação orientada a obj 2.pdb
+E:\Programação orientada a obj 2\obj\Debug\net9.0\Programação orientada a obj 2.genruntimeconfig.cache
+E:\Programação orientada a obj 2\obj\Debug\net9.0\ref\Programação orientada a obj 2.dll
